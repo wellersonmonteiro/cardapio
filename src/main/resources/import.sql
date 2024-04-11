@@ -1,0 +1,1 @@
+insert into foods (price, title, image) values (10, 'babaçu', 'C:\Users\wellersonelucas\Downloads\Captura de tela_22-3-2024_143656_treinamento.atento.com.br.jpeg');
